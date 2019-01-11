@@ -2,56 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8ed3a3a-8e89-4a73-a770-33d2bf4a965f" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/006ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/009ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/010ok.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/020.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/023.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/037.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/038.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/039.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/040.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/041.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/043.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/045.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/自动创建文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/011ok.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001ok.py" beforeDir="false" afterPath="$PROJECT_DIR$/001ok.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/002ok.py" beforeDir="false" afterPath="$PROJECT_DIR$/002ok.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/006.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/009.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/012.py" beforeDir="false" afterPath="$PROJECT_DIR$/012.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +21,7 @@
     <SUITE FILE_PATH="coverage/runoob_python_100_examples$006.coverage" NAME="006 Coverage Results" MODIFIED="1547175926637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/runoob_python_100_examples$009.coverage" NAME="009 Coverage Results" MODIFIED="1547176486598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/runoob_python_100_examples$.coverage" NAME="自动创建文件 Coverage Results" MODIFIED="1547180779512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/runoob_python_100_examples$011.coverage" NAME="011 Coverage Results" MODIFIED="1547186291341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="runoob-python-100-examples" />
@@ -74,10 +29,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/自动创建文件.py">
+        <entry file="file://$PROJECT_DIR$/012.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="28">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -103,9 +58,10 @@
         <option value="$PROJECT_DIR$/009.py" />
         <option value="$PROJECT_DIR$/001ok.py" />
         <option value="$PROJECT_DIR$/010.py" />
-        <option value="$PROJECT_DIR$/011.py" />
         <option value="$PROJECT_DIR$/015.py" />
         <option value="$PROJECT_DIR$/自动创建文件.py" />
+        <option value="$PROJECT_DIR$/011.py" />
+        <option value="$PROJECT_DIR$/012.py" />
       </list>
     </option>
   </component>
@@ -159,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.自动创建文件">
+  <component name="RunManager" selected="Python.011">
     <configuration name="自动创建文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="runoob-python-100-examples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,28 +130,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动创建文件.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="005ok" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="runoob-python-100-examples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/005ok.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,13 +204,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="011" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="runoob-python-100-examples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\microease\Documents\GitHub\runoob-python-100-examples\011ok.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.011" />
         <item itemvalue="Python.自动创建文件" />
         <item itemvalue="Python.010" />
         <item itemvalue="Python.009" />
         <item itemvalue="Python.006" />
-        <item itemvalue="Python.005ok" />
       </list>
     </recent_temporary>
   </component>
@@ -293,12 +249,12 @@
       <workItem from="1546918720996" duration="59000" />
       <workItem from="1546928066035" duration="206000" />
       <workItem from="1547106286216" duration="6225000" />
-      <workItem from="1547173595355" duration="5753000" />
+      <workItem from="1547173595355" duration="7060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12243000" />
+    <option name="totallyTimeSpent" value="13550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="963" y="0" width="960" height="1040" extended-state="0" />
@@ -332,23 +288,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/008ok.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/002ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/005ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/003ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
@@ -363,39 +302,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/009ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/006ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/001ok.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/010ok.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/011.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/012.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/013.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -514,10 +426,54 @@
     <entry file="file://$PROJECT_DIR$/042.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/009ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/008ok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/007ok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/010ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/011ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/006ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/097.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/自动创建文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/012.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
